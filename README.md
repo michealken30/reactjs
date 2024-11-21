@@ -61,7 +61,7 @@ Before starting this project, ensure you have the following prerequisites:
 
 ### Step 1: SSH Exchange between local computer and Github account
 
-**cd** to home dir and create **.ssh** folder if it doesn't exit
+**cd** to home dir and creat **.ssh** folder if it doesn't exit
 
 ```
 cd ~/.ssh
